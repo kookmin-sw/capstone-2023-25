@@ -1,0 +1,106 @@
+{
+	"version": 1,
+	"meta": {
+		"filename": "example.pdf",
+		"size": 361842,
+		"processed_at": "2023-05-23 21:31:32"
+	},
+	"drawings": [
+		{
+			"page_index": 1,
+			"size": {
+				"width": 2382,
+				"height": 1684
+			},
+			"bound": {
+				"top": 0,
+				"bottom": 0,
+				"left": 2382,
+				"right": 1684
+			},
+			"drawing_no": "A-203",
+			"objects": [
+				{
+					"x": 820,
+					"y": 1009,
+					"w": 64,
+					"h": 64,
+					"data": "A-408",
+					"type": "drawing_no"
+				},
+				{
+					"x": 1463,
+					"y": 236,
+					"w": 64,
+					"h": 64,
+					"data": "A-404",
+					"type": "drawing_no"
+				},
+				{
+					"x": 986,
+					"y": 236,
+					"w": 64,
+					"h": 64,
+					"data": "A-402",
+					"type": "drawing_no"
+				},
+				{
+					"x": 456,
+					"y": 235,
+					"w": 64,
+					"h": 64,
+					"data": "A-401",
+					"type": "drawing_no"
+				},
+				{
+					"x": 1350,
+					"y": 236,
+					"w": 64,
+					"h": 64,
+					"data": "A-403",
+					"type": "drawing_no"
+				},
+				{
+					"x": 1724,
+					"y": 434,
+					"w": 64,
+					"h": 64,
+					"data": "A-405",
+					"type": "drawing_no"
+				},
+				{
+					"x": 1725,
+					"y": 672,
+					"w": 64,
+					"h": 64,
+					"data": "A-406",
+					"type": "drawing_no"
+				},
+				{
+					"x": 1724,
+					"y": 1276,
+					"w": 64,
+					"h": 64,
+					"data": "A-407",
+					"type": "drawing_no"
+				},
+				{
+					"x": 2014,
+					"y": 119,
+					"w": 64,
+					"h": 64,
+					"data": "None",
+					"type": "None"
+				},
+				{
+					"x": 1821,
+					"y": 1521,
+					"w": 64,
+					"h": 64,
+					"data": "A",
+					"type": "None"
+				}
+			]
+		}
+	]
+}
