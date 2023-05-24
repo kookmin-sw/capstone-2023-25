@@ -45,32 +45,12 @@
 
 ### 5. 기타
 
-추가적인 내용은 자유롭게 작성하세요.
+
 
 
 ## Markdown을 사용하여 내용꾸미기
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[DRAW 졸업전시 포스터.pdf](https://github.com/kookmin-sw/capstone-2023-25/files/11551495/DRAW.pdf)
 
 ### Support or Contact
 
