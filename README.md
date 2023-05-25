@@ -33,7 +33,7 @@ DRAW 프로젝트는 공사 도면 PDF 파일에서 도면 데이터 인식 및 
 |    |    |
 |:--:|:--:|
 | <img width="300" src="/public/images/profile_jaewook.jpg" alt="Jaewook Ahn" /> | <img width="300" src="/public/images/profile_seungjin.jpg" alt="Seungjin Han" /> |
-| 안재욱 | 한승진 |
+| 안재욱 (****1643) | 한승진 (****1512) |
 | Frontend | Machine Learning |
 | [Jaewoook](https://github.com/Jaewoook) | [LEFT-BEE](https://github.com/LEFT-BEE)
 | dev.jaewook@gmail.com | gkstmdwls1999@gmail.com |
