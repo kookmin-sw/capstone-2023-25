@@ -3,6 +3,8 @@
 #### [웹 데모 보러가기](https://pdf-demo.jaewook.me)
 #### [프로젝트 문서 보러가기](https://draw-docs.home.jaewook.me)
 
+![DRAW poster](public/draw-poster.jpeg)
+
 DRAW 프로젝트는 공사 도면 PDF 파일에서 도면 데이터 인식 및 데이터 추출을 하고, 추출한 데이터를 이용하여 도면 파일 위에 인식한 데이터를 제공하고 사용할 수 있게 합니다. 2023년 국민대학교 캡스톤 프로젝트로, 아이콘(AICON)과 산학협력 프로젝트로 진행하였습니다.
 
 ## 프로젝트 목표
